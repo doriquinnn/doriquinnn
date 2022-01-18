@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doriquinnn
 - 👀 I’m interested in public health and languages
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning web development
 
 
 <!---
