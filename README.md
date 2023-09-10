@@ -1,4 +1,4 @@
-### Hello there 👋🏽, Welcome!
+### Hello there 👋🏽 Welcome!
 ![image](https://github.com/doriquinnn/doriquinnn/assets/94002238/ee0a6265-75af-4860-bbeb-400b6450d3a7)
 
 
